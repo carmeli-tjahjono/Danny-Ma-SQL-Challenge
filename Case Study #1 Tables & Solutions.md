@@ -1,14 +1,20 @@
 Table 1: sales
+
 The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
-https://github.com/carmeli-tjahjono/Danny-Ma-SQL-Challenge/blob/main/Case%20Study%201/Sales%20Table.png
+
+![Sales Table](https://user-images.githubusercontent.com/115651033/201737201-041cb3e0-0bf6-4c79-a474-e90e686c189c.png)
 
 Table 2: menu
+
 The menu table maps the product_id to the actual product_name and price of each menu item.
-https://github.com/carmeli-tjahjono/Danny-Ma-SQL-Challenge/blob/main/Case%20Study%201/Product%20Table.png
+
+![Product Table](https://user-images.githubusercontent.com/115651033/201737231-0934fd35-684c-4ad9-89a7-c2c32a94c2f2.png)
 
 Table 3: members
+
 The final members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
-https://github.com/carmeli-tjahjono/Danny-Ma-SQL-Challenge/blob/main/Case%20Study%201/Member%20Table.png
+
+![Member Table](https://user-images.githubusercontent.com/115651033/201737247-584e0c9d-38ce-480f-a9a4-65fdda8bb6f5.png)
 
 
 1. What is the total amount each customer spent at the restaurant?
